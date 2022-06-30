@@ -41,6 +41,9 @@ Performance of India over the Years
 ![newplot (1)](https://user-images.githubusercontent.com/92949677/176780936-1598764b-5f62-4b1d-a160-3177d24e2253.png)
 Gender distribution over the years
 ![newplot (2)](https://user-images.githubusercontent.com/92949677/176781186-f904677a-e2a8-4931-a1e9-928e44fcdfce.png)
+# Conclusion
+We did analyze the data thoroughly and got to know  many insights about the country and player that has participated in the Olympics till now.
+We also did some of the visualistion with the help of plotly library.
 
 
 
